@@ -1,5 +1,7 @@
 # HealthyMe AI
 
+[Link to app](https://healthyme-ai.netlify.app/)
+
 Smart health insight & planner— collects user health data and generates an AI-powered health report (summary, BMI, exercise calendar, nutrition/body/activity breakdown, weight progress, timeline) via the Gemini API, rendered with Ant Design charts and exportable as a PDF.
 
 ## Setup
